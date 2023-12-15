@@ -1,6 +1,7 @@
 /**
  * Clase para guardar el nombre
  */
+//aaaaaaaaaaaaaa
 public class Record {
     /**
      * nº de aciertos al acabar

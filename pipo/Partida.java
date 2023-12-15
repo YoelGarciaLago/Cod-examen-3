@@ -1,6 +1,7 @@
 /**
  * clase partida
  */
+//aaaa
 public class Partida {
     /**
      * rondas totales

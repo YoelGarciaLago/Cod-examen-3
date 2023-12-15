@@ -1,6 +1,9 @@
+import javax.swing.*;
+
 /**
  * Juego :p
  */
+//aaaaa
 public class Datos {
     /**
      *  Número a adivinar
@@ -56,6 +59,9 @@ public class Datos {
      * @return dato
      */
     public static Datos getInstance(){
+        if(dato == null){
+            dato=new Datos();
+        }
         return dato;
     }
     
